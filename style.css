@@ -131,7 +131,7 @@ nav a:hover::before {
 
 @keyframes cloudMove {
     from { transform: translateX(0); }
-    to { transform: translateX(1200px); }
+    to { transform: translateX(1500px); }
 }
 
 .hero h1 {
